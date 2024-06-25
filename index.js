@@ -13,7 +13,7 @@ async function main() {
 }
 
 main();
-
+   
 function userHTML(user) {
   return  `<div class="user-card">
             <div class="user-card__container">
